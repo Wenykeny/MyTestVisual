@@ -10,8 +10,9 @@
         <Button Content="Button" HorizontalAlignment="Left" Height="41" Margin="108,225,0,0" VerticalAlignment="Top" Width="132"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="41" Margin="474,225,0,0" VerticalAlignment="Top" Width="132"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="41" Margin="294,225,0,0" VerticalAlignment="Top" Width="132"/>
-        <Button Content="Button" HorizontalAlignment="Left" Height="41" Margin="294,225,0,0" VerticalAlignment="Top" Width="132"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="41" Margin="108,128,0,0" VerticalAlignment="Top" Width="132"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="41" Margin="294,128,0,0" VerticalAlignment="Top" Width="132"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="41" Margin="474,128,0,0" VerticalAlignment="Top" Width="132"/>
 
     </Grid>
 </Window>
